@@ -1,2 +1,3 @@
-# curriculo
+# trufa
+https://thiagojanus.github.io/trufa/
 
