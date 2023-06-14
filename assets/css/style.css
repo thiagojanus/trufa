@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #00003a;
+  background: #8B4513;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #09098d;
+  background: #8b4513d0;
   color: #fff;
 }
 
@@ -1278,7 +1278,7 @@ p {
   margin-bottom: 1rem;
   line-height: 2;
   text-align: justify;
-  text-indent: 50px;
+  text-indent: 13px;
   font-family: 'Noto Sans', sans-serif;
   color: #8b4513cb;
   font-weight: bolder;
